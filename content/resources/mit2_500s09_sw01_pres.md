@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-500-desalination-and-water-purification-spring-2009/b885dabb9b03d7317b8d8637b180242f_MIT2_500s09_sw01_pres.pdf
+file: /media/courses/2-500-desalination-and-water-purification-spring-2009/b885dabb9b03d7317b8d8637b180242f_MIT2_500s09_sw01_pres.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: MIT2_500s09_sw01_pres.pdf
 uid: b885dabb-9b03-d731-7b8d-8637b180242f
