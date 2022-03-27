@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e171becb-8283-60a9-c7ab-b7bdd4327c37
 resourcetype: Document
 title: MIT2_500s09_testing01.pdf
 uid: d1e45d55-cd9a-3f8e-dd2e-aaaa5d46ad6c

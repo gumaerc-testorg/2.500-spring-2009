@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e78fb116-5dde-cc57-8982-3a8f63b9f46e
 resourcetype: Document
 title: MIT2_500s09_read06_read12.pdf
 uid: 11eabf8f-519d-a37c-f1ff-94f3bf1767c6

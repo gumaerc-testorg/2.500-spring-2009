@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e171becb-8283-60a9-c7ab-b7bdd4327c37
 resourcetype: Document
 title: MIT2_500s09_sw01_report.pdf
 uid: 032060b5-24fa-92a2-1b35-c0a6d654c5d2
