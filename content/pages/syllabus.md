@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -66,6 +68,6 @@ Class participation
 
 {{< tableclose >}}
 
-The term project this year will be on purifying village well water in Haiti. Final presentations will be in class in [Session #26]({{< baseurl >}}/pages/calendar#26). Details will be introduced in a few weeks.
+The term project this year will be on purifying village well water in Haiti. Final presentations will be in class in {{% resource_link 23bc85f2-baf8-a9e5-3261-0402107cf2e8 "Session #26" "#26" %}}. Details will be introduced in a few weeks.
 
 The class will go on two field trips this semester, one to Koch Membrane Systems in Wilmington, MA, and one to GE Ionics in Watertown, MA.

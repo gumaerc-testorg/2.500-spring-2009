@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-500-desalination-and-water-purification-spring-2009/5c51a336426a741bdee6ee335e6f7751_MIT2_500s09_sw02_pres.pdf
+file: /courses/2-500-desalination-and-water-purification-spring-2009/5c51a336426a741bdee6ee335e6f7751_MIT2_500s09_sw02_pres.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments

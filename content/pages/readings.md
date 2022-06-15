@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the list of assigned readings by session and a
+  list of books kept on reserve for background reading.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -37,11 +39,11 @@ Introduction to water supply
 
 Specter, Michael. "[The Last Drop](http://www.newyorker.com/archive/2006/10/23/061023fa_fact1)." _The New Yorker_, October 23, 2006.
 
-Executive Summary, "Water for People, Water for Life." 1st United Nations World Water Development Report, March 22, 2003. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://unesdoc.unesco.org/images/0012/001295/129556e.pdf))
+Executive Summary, "Water for People, Water for Life." 1st United Nations World Water Development Report, March 22, 2003. ([PDF](http://unesdoc.unesco.org/images/0012/001295/129556e.pdf))
 
 Reynolds, T. D., and P. A. Richards. "Water Quality." In _Unit Operations and Processes in Environmental Engineering_. Boston, MA: PWS Publishing, 1995, pp. 78-91. ISBN: 9780534948849.
 
-Introduction ([PDF - 6.7MB]({{< baseurl >}}/resources/mit2_500s09_lec01))
+Introduction ({{% resource_link 116a49b9-7d9c-fd95-6346-275a61f921f0 "PDF - 6.7MB" %}})
 
 
 {{< tdclose >}}
@@ -57,7 +59,7 @@ Characteristics of seawater. Concentration and molality
 {{< tdopen >}}
 
 
-Stewart, Robert H. "[Definition of Salinity](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)." Section 6.1 in _Introduction to Physical Oceanography_. Texas A & M University, 2008. ([PDF]({{< baseurl >}}/resources/mit2_500s09_read02)) (Courtesy of Robert H. Stewart. Used with permission.)
+Stewart, Robert H. "[Definition of Salinity](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)." Section 6.1 in _Introduction to Physical Oceanography_. Texas A & M University, 2008. ({{% resource_link 32bd832a-1881-91cd-f213-0ee7df683893 "PDF" %}}) (Courtesy of Robert H. Stewart. Used with permission.)
 
 ASTM Standard D1141 1998 (2008). "Standard for Practice for the Preparation of Substitute Ocean Water." West Conshohocken, PA: [ASTM International](http://www.astm.org/), 2008. DOI: 10.1520/D1141-98R08.
 
@@ -137,7 +139,7 @@ Concentration polarization. RO System engineering
 
 Sauvet-Guichon, Bruno. "Ashkelon Desalination Plant — A Successful Challenge." _Desalination_ 203 (February 2007): 75-81.
 
-Reverse Osmosis Systems ([PDF - 2.9MB]({{< baseurl >}}/resources/mit2_500s09_lec08))
+Reverse Osmosis Systems ({{% resource_link eb6e23ae-607f-c99d-6544-70cd6cff9cbe "PDF - 2.9MB" %}})
 
 
 {{< tdclose >}}
@@ -151,7 +153,7 @@ Reverse Osmosis Systems ([PDF - 2.9MB]({{< baseurl >}}/resources/mit2_500s09_lec
 Introduce term project. Electrodialysis
 {{< tdclose >}}
 {{< tdopen >}}
-Guest lecture: Amy Smith (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.3MB]({{< baseurl >}}/resources/mit2_500s09_lec09)) (Courtesy of Amy Smith. Used with permission.)
+Guest lecture: Amy Smith ({{% resource_link a60cb8ef-f48e-a039-4ac4-80842cad51f0 "PDF - 1.3MB" %}}) (Courtesy of Amy Smith. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +165,7 @@ Guest lecture: Amy Smith (![This resource may not render correctly in a screen r
 Visit to Koch Membrane Systems
 {{< tdclose >}}
 {{< tdopen >}}
-Guest lecture: John McArdle ([PDF - 4.7MB]({{< baseurl >}}/resources/mit2_500s09_lec10)) (Courtesy of Koch Membrane Systems. Used with permission.)
+Guest lecture: John McArdle ({{% resource_link c0f8f545-b739-20b9-d25d-65be104d5d50 "PDF - 4.7MB" %}}) (Courtesy of Koch Membrane Systems. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +195,7 @@ Strathmann, Heiner. "The Ion-Exchange Equilibrium and the Donnan Potential," and
 
 Probstein, Ronald F. "The Electrolytic Cell," "Electrodialysis," and "Ion Exchange." Sections 6.1-6.3 in _Physicochemical Hydrodynamics_. Hoboken, NJ: Wiley-Interscience, 2003. ISBN: 9780471458302.
 
-Strathmann, Heiner. "Electromembrane Processes: State-of-the-Art Processes and Recent Developments." European Desalination Society, 2007. ([PDF - 1.4MB]({{< baseurl >}}/resources/mit2_500s09_read12)) (Courtesy of Heiner Strathmann. Used with permission.)
+Strathmann, Heiner. "Electromembrane Processes: State-of-the-Art Processes and Recent Developments." European Desalination Society, 2007. ({{% resource_link 0ba67691-b596-5c43-c2fb-72da8dafaff8 "PDF - 1.4MB" %}}) (Courtesy of Heiner Strathmann. Used with permission.)
 
 
 {{< tdclose >}}
@@ -267,7 +269,7 @@ Single effect distillation. Multi-effect distillation
 Single-stage flash distillation. Multi-stage flash evaporation
 {{< tdclose >}}
 {{< tdopen >}}
-Multi-Effect Distillation and Multi-Stage Flash Evaporation ([PDF - 4.7MB]({{< baseurl >}}/resources/mit2_500s09_lec18))
+Multi-Effect Distillation and Multi-Stage Flash Evaporation ({{% resource_link cafaffb2-a7ae-14ad-2197-df7f81686572 "PDF - 4.7MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -279,7 +281,7 @@ Multi-Effect Distillation and Multi-Stage Flash Evaporation ([PDF - 4.7MB]({{< b
 Vapor compression distillation. Relative desalination costs. Freeze distillation
 {{< tdclose >}}
 {{< tdopen >}}
-Miller, James E. "Review of Water Resources and Desalination Technologies." Sandia National Labs (March 2003): SAND 2003-0800. ([PDF]({{< baseurl >}}/resources/mit2_500s09_read19)) (Courtesy of Sandia National Labs. Used with permission.)
+Miller, James E. "Review of Water Resources and Desalination Technologies." Sandia National Labs (March 2003): SAND 2003-0800. ({{% resource_link 5e221067-9016-a54e-809d-4c6029945534 "PDF" %}}) (Courtesy of Sandia National Labs. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -291,7 +293,7 @@ Miller, James E. "Review of Water Resources and Desalination Technologies." Sand
 Discussion of term project. Details about Haiti
 {{< tdclose >}}
 {{< tdopen >}}
-Guest lecture: Amanda Adams, Mercy and Sharing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 3.2MB]({{< baseurl >}}/resources/mit2_500s09_lec20)) (Courtesy of Ray Ginther and Amy Smith. Used with permission.)
+Guest lecture: Amanda Adams, Mercy and Sharing ({{% resource_link e5f69396-ec37-4177-96e0-aaeb3b8ba3c1 "PDF - 3.2MB" %}}) (Courtesy of Ray Ginther and Amy Smith. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -307,7 +309,7 @@ Disinfection. Chlorination. Pop quiz!
 
 Hammer, Mark J., and Mark J. Hammer, Jr. "Water Processing." Chapter 7 in _Water and Wastewater Technology_. Upper Saddle River, NJ: Pearson/Prentice Hall, 2007. ISBN: 9780131745421.
 
-Murcott, Susan. "Water and Sanitation Literacy Quiz." ([PDF]({{< baseurl >}}/resources/mit2_500s09_read21)) (Courtesy of Susan Murcott. Used with permission.)
+Murcott, Susan. "Water and Sanitation Literacy Quiz." ({{% resource_link 5358cdc4-427d-fbdc-e752-54af69af38ce "PDF" %}}) (Courtesy of Susan Murcott. Used with permission.)
 
 
 {{< tdclose >}}
@@ -331,7 +333,7 @@ Tarr, J. A., et al. "Water and Wastes: A Retrospective Assessment of Wastewater 
 
 Tarr, J. A. "Origins of the Piped Society." Appendix, in del Porto, David, and Carol Steinfeld. _The Composting Toilet System Book_. Concord, MA: Center for Ecological Pollution Prevention, 2000, pp. 209-233. ISBN: 9780966678307.
 
-Guest lecture: Susan Murcott ([PDF - 7.7MB]({{< baseurl >}}/resources/mit2_500s09_lec22)) (Courtesy of Susan Murcott. Used with permission.)
+Guest lecture: Susan Murcott ({{% resource_link 98f6f81a-8290-7ac7-5949-43b4a8f2fa79 "PDF - 7.7MB" %}}) (Courtesy of Susan Murcott. Used with permission.)
 
 
 {{< tdclose >}}
@@ -363,7 +365,7 @@ Ettouney, H., and L. Rizzuti. "Solar Desalination: A Challenge for Sustainable F
 Solar desalination systems; CSP water/power cogeneration
 {{< tdclose >}}
 {{< tdopen >}}
-Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 7.4MB](http://www.dlr.de/tt/Portaldata/41/Resources/dokumente/institut/system/projects/aqua-csp/AQUA-CSP-Full-Report-Final.pdf))
+Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. ([PDF - 7.4MB](http://www.dlr.de/tt/Portaldata/41/Resources/dokumente/institut/system/projects/aqua-csp/AQUA-CSP-Full-Report-Final.pdf))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -375,7 +377,7 @@ Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalinat
 Particulate removal. Flocculation. Summary
 {{< tdclose >}}
 {{< tdopen >}}
-Conclusion ([PDF - 5.1MB]({{< baseurl >}}/resources/mit2_500s09_lec25))
+Conclusion ({{% resource_link 668e0ff4-f7ea-6e7f-b72d-5d63ed102b20 "PDF - 5.1MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
