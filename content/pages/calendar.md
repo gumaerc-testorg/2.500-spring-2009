@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, homework assignments,
+  guest lectures, and project presentations.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 23bc85f2-baf8-a9e5-3261-0402107cf2e8
 ---
