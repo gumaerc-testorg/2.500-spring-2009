@@ -5,6 +5,7 @@ file: /courses/2-500-desalination-and-water-purification-spring-2009/2d19e2122b6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT2_500s09_read02_read02.pdf
 uid: 2d19e212-2b61-0698-8f2c-2a013fc6baf7
 ---
 This resource contains information about temperature, salinity, and density.
-

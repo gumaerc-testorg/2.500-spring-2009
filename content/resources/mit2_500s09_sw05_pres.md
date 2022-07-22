@@ -5,6 +5,7 @@ file: /courses/2-500-desalination-and-water-purification-spring-2009/889e5c6f34d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
