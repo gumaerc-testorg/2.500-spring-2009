@@ -37,9 +37,9 @@ Introduction to water supply
 {{< tdopen >}}
 
 
-Specter, Michael. "[The Last Drop](http://www.newyorker.com/archive/2006/10/23/061023fa_fact1)." _The New Yorker_, October 23, 2006.
+Specter, Michael. "{{% resource_link "5137a09f-ac5e-4253-8c73-0d1fb8f80635" "The Last Drop" %}}." _The New Yorker_, October 23, 2006.
 
-Executive Summary, "Water for People, Water for Life." 1st United Nations World Water Development Report, March 22, 2003. ([PDF](http://unesdoc.unesco.org/images/0012/001295/129556e.pdf))
+Executive Summary, "Water for People, Water for Life." 1st United Nations World Water Development Report, March 22, 2003. ({{% resource_link "fe48d68b-a497-42da-a50b-840ebbdce5ac" "PDF" %}})
 
 Reynolds, T. D., and P. A. Richards. "Water Quality." In _Unit Operations and Processes in Environmental Engineering_. Boston, MA: PWS Publishing, 1995, pp. 78-91. ISBN: 9780534948849.
 
@@ -59,9 +59,9 @@ Characteristics of seawater. Concentration and molality
 {{< tdopen >}}
 
 
-Stewart, Robert H. "[Definition of Salinity](https://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf)." Section 6.1 in _Introduction to Physical Oceanography_. Texas A & M University, 2008. ({{% resource_link 32bd832a-1881-91cd-f213-0ee7df683893 "PDF" %}}) (Courtesy of Robert H. Stewart. Used with permission.)
+Stewart, Robert H. "{{% resource_link "252eeaa4-0adc-4a7e-9bf9-6cc995dd610b" "Definition of Salinity" %}}." Section 6.1 in _Introduction to Physical Oceanography_. Texas A & M University, 2008. ({{% resource_link 32bd832a-1881-91cd-f213-0ee7df683893 "PDF" %}}) (Courtesy of Robert H. Stewart. Used with permission.)
 
-ASTM Standard D1141 1998 (2008). "Standard for Practice for the Preparation of Substitute Ocean Water." West Conshohocken, PA: [ASTM International](http://www.astm.org/), 2008. DOI: 10.1520/D1141-98R08.
+ASTM Standard D1141 1998 (2008). "Standard for Practice for the Preparation of Substitute Ocean Water." West Conshohocken, PA: {{% resource_link "4af14b84-8dc6-4f36-ba57-8b741e3d0957" "ASTM International" %}}, 2008. DOI: 10.1520/D1141-98R08.
 
 
 {{< tdclose >}}
@@ -75,7 +75,7 @@ ASTM Standard D1141 1998 (2008). "Standard for Practice for the Preparation of S
 Gibbs energy. Work of separation
 {{< tdclose >}}
 {{< tdopen >}}
-Dean, Cornelia. "[Rising Acidity is Threatening Food Web of Oceans, Science Panel Says](http://www.nytimes.com/2009/01/31/science/earth/31ocean.html?_r=2)." _New York Times_, January 30, 2009.
+Dean, Cornelia. "{{% resource_link "db2bef8e-ffa0-4a3e-ae31-7a3ffc9cd329" "Rising Acidity is Threatening Food Web of Oceans, Science Panel Says" %}}." _New York Times_, January 30, 2009.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -365,7 +365,7 @@ Ettouney, H., and L. Rizzuti. "Solar Desalination: A Challenge for Sustainable F
 Solar desalination systems; CSP water/power cogeneration
 {{< tdclose >}}
 {{< tdopen >}}
-Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. ([PDF - 7.4MB](http://www.dlr.de/tt/Portaldata/41/Resources/dokumente/institut/system/projects/aqua-csp/AQUA-CSP-Full-Report-Final.pdf))
+Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. ({{% resource_link "ec5a2ed4-f9d8-4472-b6fe-1eb781953294" "PDF - 7.4MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
