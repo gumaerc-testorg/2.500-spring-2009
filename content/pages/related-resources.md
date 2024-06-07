@@ -12,27 +12,27 @@ Further reading is available on specific desalination technologies and issues.
 
 ## General Background on Water
 
-Specter, Michael. "{{% resource_link "5137a09f-ac5e-4253-8c73-0d1fb8f80635" "The Last Drop" %}}." *The New Yorker*, October 23, 2006.
+Specter, Michael. "[The Last Drop](http://www.newyorker.com/archive/2006/10/23/061023fa_fact1)." *The New Yorker*, October 23, 2006.
 
-Executive Summary, "Water for People, Water for Life." 1st United Nations World Water Development Report, March 22, 2003. ({{% resource_link "fe48d68b-a497-42da-a50b-840ebbdce5ac" "PDF" %}})
+Executive Summary, "Water for People, Water for Life." 1st United Nations World Water Development Report, March 22, 2003. ([PDF](http://unesdoc.unesco.org/images/0012/001295/129556e.pdf))
 
 Kemsley, Jyllian. "Treating Sewage for Drinking Water." *Chemical and Engineering News* 86 (January 2008): 71-73.
 
 Halford, Bethany. "Side Effects." *Chemical and Engineering News* 86 (February 2008): 13-17.
 
-Gardner-Outlaw, Tom, and Robert Engelman. "{{% resource_link "b47ca4fe-3654-4be6-8d80-4b1e3e086b6a" "Sustaining Water, Easing Scarcity: A Second Update" %}}." Population Action International, May 1997. 
+Gardner-Outlaw, Tom, and Robert Engelman. "[Sustaining Water, Easing Scarcity: A Second Update](https://studylib.net/doc/13607304/sustaining-water--easing-scarcity--a-second-update)." Population Action International, May 1997. 
 
-Barrionuevo, Alexei. "{{% resource_link "35a4759e-17d3-4417-88c7-dd8e679aecf6" "Chilean Town Withers in Free Market for Water" %}}." *New York Times*, March 14, 2009.
+Barrionuevo, Alexei. "[Chilean Town Withers in Free Market for Water](http://www.nytimes.com/2009/03/15/world/americas/15chile.html?_r=1)." *New York Times*, March 14, 2009.
 
 ## Water Quality Standards
 
-"*Guidelines for Drinking-Water Quality*: Vol. 1, Recommendations." 4th ed. World Health Organization, 2008. ({{% resource_link "4007a901-41ad-4e2a-9671-ebf0d0817219" "PDF - 3.9MB" %}})
+"*Guidelines for Drinking-Water Quality*: Vol. 1, Recommendations." 4th ed. World Health Organization, 2008. ([PDF - 3.9MB](https://iris.who.int/bitstream/handle/10665/254637/9789241549950-eng.pdf?sequence=1))
 
-"National Primary Drinking Water Regulations." U.S. Environmental Protection Agency, May 2009. EPA 816-F-09-004. ({{% resource_link "8c8e2609-2b39-4ca1-b98c-6bf1f9058ea7" "PDF" %}})
+"National Primary Drinking Water Regulations." U.S. Environmental Protection Agency, May 2009. EPA 816-F-09-004. ([PDF](https://www.epa.gov/sites/default/files/2016-06/documents/npwdr_complete_table.pdf))
 
 Reynolds, T. D., and P. A. Richards. "Water Quality." In *Unit Operations and Processes in Environmental Engineering*. Boston, MA: PWS Publishing, 1995, pp. 78-91. ISBN: 9780534948849.
 
-"Desalination for Safe Water Supply: Guidance for the Health and Environmental Aspects Applicable to Desalination." World Health Organization, 2007. ({{% resource_link "9e74b869-771e-4ceb-b486-b25ae730c79c" "PDF - 1.2MB" %}})
+"Desalination for Safe Water Supply: Guidance for the Health and Environmental Aspects Applicable to Desalination." World Health Organization, 2007. ([PDF - 1.2MB](https://www.ircwash.org/sites/default/files/WHO-2007-Desalination.pdf))
 
 Hooley, J. P., G. A. Pittner, and Z. Amjad. "The Importance of Water Analysis for Reverse Osmosis Design and Operation." Chapter 5 in Amjad, Zahid. *Reverse Osmosis*. New York, NY: Van Nostrand Rheinhold, 1993. ISBN: 9780442239640.
 
@@ -42,15 +42,15 @@ Miller, James E. "Review of Water Resources and Desalination Technologies." Sand
 
 ## Properties of Salt Water and Seawater
 
-Pitzer, Kenneth S., J. Christopher Peiper, and R. H. Busey. "Thermodynamic Properties of Aqueous Sodium Chloride Solutions." *Journal of Physical Chemical Reference Data* 13 (1984): 1-102. ({{% resource_link "90922b16-a13c-45c4-8fec-002b3cd1992d" "PDF - 6.1MB" %}})
+Pitzer, Kenneth S., J. Christopher Peiper, and R. H. Busey. "Thermodynamic Properties of Aqueous Sodium Chloride Solutions." *Journal of Physical Chemical Reference Data* 13 (1984): 1-102. ([PDF - 6.1MB](https://aip.scitation.org/doi/pdf/10.1063/1.555709?class=pdf&))
 
 Bromley, L. A., et al. "Thermodynamic Properties of Sea Salt Solutions." *American Institute of Chemical Engineers Journal* 20 (March 1974): 326-335.
 
-ASTM Standard D1141, 1998 (2008), "Standard for Practice for the Preparation of Substitute Ocean Water." West Conshohocken, PA: {{% resource_link "4af14b84-8dc6-4f36-ba57-8b741e3d0957" "ASTM International" %}}, 2008. DOI: 10.1520/D1141-98R08.
+ASTM Standard D1141, 1998 (2008), "Standard for Practice for the Preparation of Substitute Ocean Water." West Conshohocken, PA: [ASTM International](http://www.astm.org/), 2008. DOI: 10.1520/D1141-98R08.
 
-Stewart, Robert H. "{{% resource_link "4a95169e-662a-4adf-861e-b79679a89008" "Definition of Salinity" %}}." Section 6.1 in *Introduction to Physical Oceanography*. Texas A & M University, 2008. ({{% resource_link "32bd832a-1881-91cd-f213-0ee7df683893" "PDF" %}}) (Courtesy of Robert H. Stewart. Used with permission.)
+Stewart, Robert H. "[Definition of Salinity](http://www.pelagicos.net/MARS4080_6080/readings/IPO_Ch1.pdf)." Section 6.1 in *Introduction to Physical Oceanography*. Texas A & M University, 2008. ({{% resource_link "32bd832a-1881-91cd-f213-0ee7df683893" "PDF" %}}) (Courtesy of Robert H. Stewart. Used with permission.)
 
-Sharqawy, M. H., J. H. Lienhard V, and S. M. Zubair. "The Thermophysical Properties of Seawater: A Review of Existing Correlations and Data." *Desalination and Water Treatment*, 2010 (forthcoming). Please see {{% resource_link "dcf9a186-104d-47af-a4ff-d705abe25b0a" "Thermophysical Properties of Seawater" %}} to download seawater property data tables and software.
+Sharqawy, M. H., J. H. Lienhard V, and S. M. Zubair. "The Thermophysical Properties of Seawater: A Review of Existing Correlations and Data." *Desalination and Water Treatment*, 2010 (forthcoming). Please see [Thermophysical Properties of Seawater](http://web.mit.edu/seawater/) to download seawater property data tables and software.
 
 ## Reverse Osmosis
 
@@ -126,7 +126,7 @@ Murcott, Susan. "Water and Sanitation Literacy Quiz." ({{% resource_link "5358cd
 
 ## Solar Desalination
 
-Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. ({{% resource_link "ec5a2ed4-f9d8-4472-b6fe-1eb781953294" "PDF - 7.4MB" %}})
+Trieb, Franz, et al. "AQUA-CSP: Concentrating Solar Power for Seawater Desalination." Stuttgart, Germany: DLR, November 2007. ([PDF - 7.4MB](http://www.dlr.de/tt/Portaldata/41/Resources/dokumente/institut/system/projects/aqua-csp/AQUA-CSP-Full-Report-Final.pdf))
 
 Narayan, G. P., M. H. Sharqawy, E. K. Summers, J. H. Lienhard V, S. M. Zubair, and M. A. Antar. "The Potential of Solar-driven Humidification-dehumidification Desalination for Small-scale Decentralized Water Production." *Renewable and Sustainable Energy Reviews* (2009). DOI:10.1016/j.rser.2009.11.014.
 
