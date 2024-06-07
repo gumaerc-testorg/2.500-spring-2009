@@ -27,7 +27,7 @@ Term Project
 
 Problem Statement ({{% resource_link 305b5457-3593-6206-bab7-093c99479fed "PDF" %}}) - This describes conditions in Phaeton and Paulette, including the results of field tests of several water supplies in the villages. It also sets out the requirements for the term project.
 
-Map of Cap Haitien ({{% resource_link bdfcc6f4-cbec-6a2c-61be-22a5b96e9e71 "KML" %}}) - Download this file to explore in Google Earth, or copy the URL into {{% resource_link "f71e9f22-e891-4975-bb61-c935972a829d" "Google Maps" %}}.
+Map of Cap Haitien ({{% resource_link bdfcc6f4-cbec-6a2c-61be-22a5b96e9e71 "KML" %}}) - Download this file to explore in Google Earth, or copy the URL into [Google Maps](http://maps.google.com/).
 
 Q&A ({{% resource_link bb5dbe4a-1cad-ddf3-ed7f-501fd330d91f "PDF" %}}) - These are answers to some student questions by Amy Smith and Kofi Taha.
 
