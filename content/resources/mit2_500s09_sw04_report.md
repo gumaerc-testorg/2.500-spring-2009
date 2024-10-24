@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-500-desalination-and-water-purification-spring-2009/e819c960cf43cb2fe8d854a47b258927_MIT2_500s09_sw04_report.pdf
+file: /ol-ocw-studio-app/courses/2-500-desalination-and-water-purification-spring-2009/e819c960cf43cb2fe8d854a47b258927_MIT2_500s09_sw04_report.pdf
 file_size: 916515
 file_type: application/pdf
 learning_resource_types:

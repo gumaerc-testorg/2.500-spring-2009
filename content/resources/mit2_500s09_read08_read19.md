@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about vapor compression distillation,
   relative desalination costs and freeze distillation.
-file: /courses/2-500-desalination-and-water-purification-spring-2009/e6507a6714a7a88d474f6435a02ece9d_MIT2_500s09_read08_read19.pdf
+file: /ol-ocw-studio-app/courses/2-500-desalination-and-water-purification-spring-2009/e6507a6714a7a88d474f6435a02ece9d_MIT2_500s09_read08_read19.pdf
 file_size: 892270
 file_type: application/pdf
 learning_resource_types:
