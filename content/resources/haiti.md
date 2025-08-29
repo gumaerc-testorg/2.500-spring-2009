@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-500-desalination-and-water-purification-spring-2009/bdfcc6f4cbec6a2c61be22a5b96e9e71_haiti.kml
+file: /ol-ocw-studio-app/courses/2-500-desalination-and-water-purification-spring-2009/bdfcc6f4cbec6a2c61be22a5b96e9e71_haiti.kml
 file_size: 39488
 file_type: text/xml
 learning_resource_types:
